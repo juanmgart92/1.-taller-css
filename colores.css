@@ -1,0 +1,45 @@
+/*Nombres: Juan David Lopez Lombana - Juan Manuel Guerrero Arteaga */
+*{
+  margin:0px;
+  padding: 0px;
+}
+
+div#general{
+  margin: auto;
+  width: 500px;
+  height: 500px;
+  background-color:yellow;
+}
+
+div#ofertas{
+  width: 60px;
+  height:500px;
+  background-color:blue;
+}
+ div#clase{
+   width: 30px;
+   height: 500px;
+   background-color: red;
+ }
+
+ div#hola{
+   margin: 60px;
+   width: 15px;
+   height: 500px;
+   background-color: yellow;
+
+ }
+
+ div#jj{
+   margin:50px;
+   width:80px;
+   height: 500px;
+   background-color:red;
+ }
+
+ div#aa{
+   margin:80px;
+   width: 110px;
+   height: 500px;
+   background-color: blue;
+ }

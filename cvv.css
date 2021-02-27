@@ -1,0 +1,36 @@
+/*JUAN MANUEL GUERRERO ARTEAGA - JUAN DAVID LOPEZ LOMBANA */
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.centrado{
+
+  text-align: center;
+}
+
+.txt{
+  color: white;
+  background-color: blue;
+}
+
+.txt2{
+  color: white;
+  background-color: blue;
+}
+
+.txt3{
+  color: white;
+  background-color: blue;
+
+}
+
+img.centrado{
+  text-align: center;
+
+  width: 60px;
+  height: 60px;
+}
